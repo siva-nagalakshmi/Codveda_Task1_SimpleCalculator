@@ -13,4 +13,4 @@ It performs the following operations:
 ##  How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Codveda_Task1_SimpleCalculator.git
+   git clone https://github.com/your-siva-nagalakshmi/Codveda_Task1_SimpleCalculator.git
